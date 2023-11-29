@@ -1,0 +1,4 @@
+# New York Times Spelling Bee Game Solver
+This Python script/notebook gets the days letters from the New York Times Spelling Bee game and finds all possible words that can be made from the letters. Since the word bank the developers used is not made public, not all words listed are accepted by the game. A subset of the words returned should be accepted by and maximize your score in the game for the day.
+
+This script uses words from the Unabridged Merriam-Webster English Dictionary provided by Project Gutenberg [here](https://www.gutenberg.org/cache/epub/29765/pg29765.txt). The dictionary is provided in repository `gutenberg_unabridged.txt` file.
